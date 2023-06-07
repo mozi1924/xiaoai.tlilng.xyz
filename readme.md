@@ -4,7 +4,7 @@ Chinese | Русский(еще не) | [English](readme_en.md)
 
 | 小爱触屏音箱 | 小爱触屏音箱pro8 |
 |  :----:  | :----:  |
-| [<img decoding="lx04" src="/d/.picture/lx04.png" width="200px">](lx04)  | [<img decoding="x08a" src="/d/.picture/x08a.png" width="200px">](x08a) |
+| [<img decoding="lx04" src="https://cdn.jsdelivr.net/gh/mozi1924/xiaoai.tlilng.xyz@v2/pictures/lx04.png" width="200px">](lx04)  | [<img decoding="x08a" src="https://cdn.jsdelivr.net/gh/mozi1924/xiaoai.tlilng.xyz@v2/pictures/x08a.png" width="200px">](x08a) |
 |更多机型请期待|更多机型请期待|
 
 查看教程：
@@ -43,4 +43,4 @@ https://PayPal.Me/mozi1924
 
 微信&支付宝
 
-<img decoding="pay" src="/d/.picture/pay.jpg" width="500px">
+<img decoding="pay" src="https://cdn.jsdelivr.net/gh/mozi1924/xiaoai.tlilng.xyz@v2/pictures/pay.jpg" width="500px">
